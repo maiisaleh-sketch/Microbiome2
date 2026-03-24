@@ -1,4 +1,4 @@
-# Microbiome2
+# Amplicon-Microbiome2
 
 library("knitr")
 
